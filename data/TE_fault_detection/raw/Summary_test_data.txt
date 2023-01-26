@@ -1,0 +1,6 @@
+Setup 1: 
+ 1 runs of 18 hours duration.
+ IDV 4 is on from hours 3 to 5.
+ IDV 6 is on from hours 8 to 10.
+ IDV 14 is on from hours 14 to 16.
+ Seed is 1269 to 1269.
