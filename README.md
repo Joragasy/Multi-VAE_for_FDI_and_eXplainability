@@ -1,2 +1,2 @@
-# Multi-(V)Autoencoder for Explanable Fault Detection and Isolation 
+# Multi-(V)Autoencoder for Explainable Fault Detection and Isolation 
 
